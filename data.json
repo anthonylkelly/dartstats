@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T20:00:00Z",
+ "updated": "2026-10-07T00:43:01Z",
  "league": {
   "title": "Thursday 2 Player BP Hand",
   "location": "6R2BPH"
@@ -209,7 +209,7 @@
   [
    "Erica Wall",
    "TakingNamesTakingAim",
-   3,
+   3.0,
    6,
    4,
    0,
@@ -372,6 +372,21 @@
    0
   ],
   [
+   "Kevin DeHollander",
+   "Draw Two",
+   2.6,
+   6,
+   3,
+   0,
+   0,
+   0,
+   4,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
    "Anthony Kelly",
    "Throw Bros",
    2.6,
@@ -387,16 +402,16 @@
    0
   ],
   [
-   "Kevin DeHollander",
-   "Draw Two",
-   2.6,
+   "Mike Georgetti",
+   "No Clue",
+   2.59,
    6,
-   3,
-   0,
-   0,
-   0,
    4,
    2,
+   0,
+   0,
+   5,
+   1,
    1,
    0,
    0
@@ -413,21 +428,6 @@
    3,
    3,
    2,
-   0,
-   0
-  ],
-  [
-   "Mike Georgetti",
-   "No Clue",
-   2.59,
-   6,
-   4,
-   2,
-   0,
-   0,
-   5,
-   1,
-   1,
    0,
    0
   ],
@@ -758,18 +758,6 @@
    10
   ],
   [
-   "Kevin DeHollander",
-   "Draw Two",
-   21.29,
-   7,
-   0,
-   2,
-   0,
-   0,
-   0,
-   7
-  ],
-  [
    "Jamie Love",
    "Draw Two",
    21.29,
@@ -780,6 +768,18 @@
    0,
    0,
    5
+  ],
+  [
+   "Kevin DeHollander",
+   "Draw Two",
+   21.29,
+   7,
+   0,
+   2,
+   0,
+   0,
+   0,
+   7
   ],
   [
    "Brandon Wheeler",
@@ -957,87 +957,87 @@
  "teams": [
   {
    "name": "Dart Bags",
+   "site": "Tryon City Tavern",
    "captain": "Alexander Blake",
-   "phone": "585-737-2583",
-   "site": "Tryon City Tavern"
+   "phone": "585-737-2583"
   },
   {
    "name": "DoubleIn StumbleOut",
+   "site": "Dougies",
    "captain": "Sean Liddle",
-   "phone": "585-259-7326",
-   "site": "Dougies"
+   "phone": "585-259-7326"
   },
   {
    "name": "Draw Two",
+   "site": "Gameday",
    "captain": "Kevin DeHollander",
-   "phone": "585-703-4068",
-   "site": "Gameday"
+   "phone": "585-703-4068"
   },
   {
    "name": "Handjobs4thehomeless",
+   "site": "Back To My Place",
    "captain": "Matt Wagner",
-   "phone": "585-313-3582",
-   "site": "Back To My Place"
+   "phone": "585-313-3582"
   },
   {
    "name": "Never Trust A Dart",
+   "site": "BLVD Grill",
    "captain": "Eric Porte",
-   "phone": "585-766-0352",
-   "site": "BLVD Grill"
+   "phone": "585-766-0352"
   },
   {
    "name": "No Clue",
+   "site": "Gameday",
    "captain": "Andy Georgetti",
-   "phone": "585-470-8447",
-   "site": "Gameday"
+   "phone": "585-470-8447"
   },
   {
    "name": "Retreat",
+   "site": "Retreat",
    "captain": "Daniel Purpura",
-   "phone": "585-369-6966",
-   "site": "Retreat"
+   "phone": "585-369-6966"
   },
   {
    "name": "Revenge",
+   "site": "My Apartment Bar",
    "captain": "Archie Donaldson",
-   "phone": "585-967-0499",
-   "site": "My Apartment Bar"
+   "phone": "585-967-0499"
   },
   {
    "name": "Scotts On The Rocks",
+   "site": "My Apartment Bar",
    "captain": "Scott King",
-   "phone": "585-667-4378",
-   "site": "My Apartment Bar"
+   "phone": "585-667-4378"
   },
   {
    "name": "Tag Team Tami",
+   "site": "My Apartment Bar",
    "captain": "Mike Ronzo",
-   "phone": "585-764-3896",
-   "site": "My Apartment Bar"
+   "phone": "585-764-3896"
   },
   {
    "name": "TakingNamesTakingAim",
+   "site": "Tryon City Tavern",
    "captain": "Jessica Mitrano",
-   "phone": "585-704-5365",
-   "site": "Tryon City Tavern"
+   "phone": "585-704-5365"
   },
   {
    "name": "Throw Bros",
+   "site": "My Apartment Bar",
    "captain": "Anthony Kelly",
-   "phone": "585-424-0134",
-   "site": "My Apartment Bar"
+   "phone": "585-424-0134"
   },
   {
    "name": "Throwing Shade",
+   "site": "Drs Inn",
    "captain": "Shawn Bentley",
-   "phone": "585-709-4900",
-   "site": "Drs Inn"
+   "phone": "585-709-4900"
   },
   {
    "name": "Wags To Richs",
+   "site": "My Apartment Bar",
    "captain": "Rich Allen",
-   "phone": "585-750-4028",
-   "site": "My Apartment Bar"
+   "phone": "585-750-4028"
   }
  ],
  "schedule": [
@@ -1324,7 +1324,7 @@
   {
    "week": 9,
    "date": "2026-12-03",
-   "note": "Off 11/26 for Thanksgiving",
+   "note": "Off 11/26- Thanskgiving",
    "matches": [
     [
      "Handjobs4thehomeless",
@@ -1429,7 +1429,7 @@
   {
    "week": 12,
    "date": "2027-01-07",
-   "note": "Off 12/24 and 12/31 for the holidays",
+   "note": "Off 12/24 & 12/31- Holidays",
    "matches": [
     [
      "Scotts On The Rocks",
@@ -1499,67 +1499,67 @@
   {
    "week": 14,
    "date": "2027-01-21",
-   "note": "Makeup matches",
+   "note": "Use 1/21 for Makeup Matches",
    "matches": []
   },
   {
    "week": 15,
    "date": "2027-01-28",
-   "note": "Matches TBA. Top 7 and bottom 7.",
+   "note": "Matches TBA. Top 7 & Bottom 7.",
    "matches": []
   },
   {
    "week": 16,
    "date": "2027-02-04",
-   "note": "Matches TBA. Top 7 and bottom 7.",
+   "note": "Matches TBA. Top 7 & Bottom 7.",
    "matches": []
   },
   {
    "week": 17,
    "date": "2027-02-11",
-   "note": "Matches TBA. Top 7 and bottom 7.",
+   "note": "Matches TBA. Top 7 & Bottom 7.",
    "matches": []
   },
   {
    "week": 18,
    "date": "2027-02-18",
-   "note": "Matches TBA. Top 7 and bottom 7.",
+   "note": "Matches TBA. Top 7 & Bottom 7.",
    "matches": []
   },
   {
    "week": 19,
    "date": "2027-02-25",
-   "note": "Matches TBA. Top 7 and bottom 7.",
+   "note": "Matches TBA. Top 7 & Bottom 7.",
    "matches": []
   },
   {
    "week": 20,
    "date": "2027-03-04",
-   "note": "Matches TBA. Top 7 and bottom 7.",
+   "note": "Matches TBA. Top 7 & Bottom 7.",
    "matches": []
   },
   {
    "week": 21,
    "date": "2027-03-11",
-   "note": "Matches TBA. Top 7 and bottom 7.",
+   "note": "Matches TBA. Top 7 & Bottom 7.",
    "matches": []
   },
   {
    "week": 22,
    "date": "2027-03-18",
-   "note": "Makeup matches",
+   "note": "Use 3/18 for Makeup Matches",
    "matches": []
   },
   {
    "week": 23,
    "date": "2027-03-25",
-   "note": "Makeup matches",
+   "note": "Use 3/25 for Makeup Matches",
    "matches": []
   },
   {
    "week": 24,
    "date": "2027-04-01",
-   "note": "Makeup matches",
+   "note": "Use 4/1 for Makeup Matches",
    "matches": []
   },
   {
