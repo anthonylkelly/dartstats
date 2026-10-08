@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T11:42:29Z",
+ "updated": "2026-10-08T11:42:49Z",
  "league": {
   "title": "Thursday 2 Player BP Hand",
   "location": "6R2BPH"
@@ -372,21 +372,6 @@
    0
   ],
   [
-   "Kevin DeHollander",
-   "Draw Two",
-   2.6,
-   6,
-   3,
-   0,
-   0,
-   0,
-   4,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Anthony Kelly",
    "Throw Bros",
    2.6,
@@ -399,6 +384,21 @@
    1,
    1,
    1,
+   0
+  ],
+  [
+   "Kevin DeHollander",
+   "Draw Two",
+   2.6,
+   6,
+   3,
+   0,
+   0,
+   0,
+   4,
+   2,
+   1,
+   0,
    0
   ],
   [
@@ -758,18 +758,6 @@
    10
   ],
   [
-   "Jamie Love",
-   "Draw Two",
-   21.29,
-   7,
-   1,
-   0,
-   0,
-   0,
-   0,
-   5
-  ],
-  [
    "Kevin DeHollander",
    "Draw Two",
    21.29,
@@ -780,6 +768,18 @@
    0,
    0,
    7
+  ],
+  [
+   "Jamie Love",
+   "Draw Two",
+   21.29,
+   7,
+   1,
+   0,
+   0,
+   0,
+   0,
+   5
   ],
   [
    "Brandon Wheeler",
