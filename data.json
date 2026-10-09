@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T01:29:02Z",
+ "updated": "2026-10-09T02:26:04Z",
  "league": {
   "title": "Thursday 2 Player BP Hand",
   "location": "6R2BPH"
@@ -12,8 +12,8 @@
   ],
   [
    "No Clue",
-   11,
-   4
+   21,
+   9
   ],
   [
    "Dart Bags",
@@ -62,8 +62,8 @@
   ],
   [
    "Throw Bros",
-   6,
-   9
+   11,
+   19
   ],
   [
    "Retreat",
@@ -86,16 +86,16 @@
    4
   ],
   [
-   "No Clue",
-   "Retreat",
-   "10/01/2026",
-   1,
-   11,
-   4
-  ],
-  [
    "Dart Bags",
    "Never Trust A Dart",
+   "10/08/2026",
+   2,
+   10,
+   5
+  ],
+  [
+   "No Clue",
+   "Throw Bros",
    "10/08/2026",
    2,
    10,
@@ -158,16 +158,16 @@
    8
   ],
   [
-   "Throw Bros",
-   "DoubleIn StumbleOut",
-   "10/01/2026",
-   1,
-   6,
-   9
-  ],
-  [
    "Never Trust A Dart",
    "Dart Bags",
+   "10/08/2026",
+   2,
+   5,
+   10
+  ],
+  [
+   "Throw Bros",
+   "No Clue",
    "10/08/2026",
    2,
    5,
@@ -237,21 +237,6 @@
    0
   ],
   [
-   "Erica Wall",
-   "TakingNamesTakingAim",
-   3.0,
-   6,
-   4,
-   0,
-   0,
-   0,
-   7,
-   1,
-   1,
-   1,
-   0
-  ],
-  [
    "Matt Wagner",
    "Handjobs4thehomeless",
    3.0,
@@ -267,6 +252,36 @@
    0
   ],
   [
+   "Erica Wall",
+   "TakingNamesTakingAim",
+   3.0,
+   6,
+   4,
+   0,
+   0,
+   0,
+   7,
+   1,
+   1,
+   1,
+   0
+  ],
+  [
+   "Andy Georgetti",
+   "No Clue",
+   2.97,
+   12,
+   5,
+   5,
+   1,
+   0,
+   7,
+   7,
+   4,
+   0,
+   0
+  ],
+  [
    "Kieron Bussom",
    "Handjobs4thehomeless",
    2.94,
@@ -277,21 +292,6 @@
    0,
    3,
    0,
-   3,
-   0,
-   0
-  ],
-  [
-   "Andy Georgetti",
-   "No Clue",
-   2.81,
-   6,
-   3,
-   2,
-   0,
-   0,
-   3,
-   4,
    3,
    0,
    0
@@ -417,21 +417,6 @@
    0
   ],
   [
-   "Mike Georgetti",
-   "No Clue",
-   2.59,
-   6,
-   4,
-   2,
-   0,
-   0,
-   5,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Archie Donaldson",
    "Revenge",
    2.57,
@@ -477,6 +462,36 @@
    0
   ],
   [
+   "Mike Georgetti",
+   "No Clue",
+   2.49,
+   12,
+   7,
+   2,
+   0,
+   0,
+   6,
+   3,
+   1,
+   0,
+   0
+  ],
+  [
+   "Will Zimmer",
+   "Throw Bros",
+   2.48,
+   6,
+   2,
+   0,
+   0,
+   0,
+   4,
+   0,
+   2,
+   0,
+   0
+  ],
+  [
    "Jason Arena",
    "Throwing Shade",
    2.44,
@@ -509,13 +524,13 @@
   [
    "Chris Contrera",
    "Throw Bros",
-   2.39,
-   6,
-   1,
-   1,
+   2.26,
+   12,
+   2,
+   2,
    0,
    0,
-   4,
+   7,
    0,
    1,
    0,
@@ -701,16 +716,28 @@
    15
   ],
   [
+   "Will Zimmer",
+   "Throw Bros",
+   24.28,
+   7,
+   1,
+   4,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
    "Andy Georgetti",
    "No Clue",
-   23.59,
-   7,
-   2,
+   24.23,
+   14,
+   4,
+   3,
+   0,
+   0,
    1,
-   0,
-   0,
-   0,
-   18
+   32
   ],
   [
    "Kirk Santelli",
@@ -809,18 +836,6 @@
    7
   ],
   [
-   "Chris Contrera",
-   "Throw Bros",
-   21.07,
-   7,
-   4,
-   2,
-   0,
-   0,
-   0,
-   9
-  ],
-  [
    "Daniel Purpura",
    "Retreat",
    21.01,
@@ -869,6 +884,30 @@
    14
   ],
   [
+   "Mike Georgetti",
+   "No Clue",
+   20.32,
+   14,
+   5,
+   2,
+   0,
+   0,
+   1,
+   18
+  ],
+  [
+   "Chris Contrera",
+   "Throw Bros",
+   20.29,
+   14,
+   5,
+   2,
+   0,
+   0,
+   0,
+   13
+  ],
+  [
    "Archie Donaldson",
    "Revenge",
    19.76,
@@ -911,18 +950,6 @@
    7,
    1,
    0,
-   0,
-   0,
-   0,
-   10
-  ],
-  [
-   "Mike Georgetti",
-   "No Clue",
-   18.47,
-   7,
-   2,
-   1,
    0,
    0,
    0,
@@ -1000,6 +1027,12 @@
   ],
   "x": [
    [
+    "Mike Georgetti",
+    "No Clue",
+    18.47,
+    20.32
+   ],
+   [
     "Kirk Santelli",
     "DoubleIn StumbleOut",
     22.29,
@@ -1010,12 +1043,6 @@
     "Revenge",
     18.85,
     19.76
-   ],
-   [
-    "Alexander Blake",
-    "Dart Bags",
-    21.53,
-    22.29
    ]
   ]
  },
