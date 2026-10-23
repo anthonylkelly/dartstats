@@ -11,8 +11,8 @@
   ],
   [
    "Just The Tip",
-   27,
-   17
+   34,
+   21
   ],
   [
    "Gotti And Hynes",
@@ -41,8 +41,8 @@
   ],
   [
    "Austin And Joe",
-   12,
-   32
+   16,
+   39
   ]
  ],
  "results": [
@@ -63,20 +63,20 @@
    4
   ],
   [
+   "Just The Tip",
+   "Austin And Joe",
+   "10/22/2026",
+   5,
+   7,
+   4
+  ],
+  [
    "Sweet Pickles",
    "BadDarts StankyFarts",
    "10/15/2026",
    4,
    7,
    4
-  ],
-  [
-   "Austin And Joe",
-   "Alex And Lawlor",
-   "10/15/2026",
-   4,
-   6,
-   5
   ],
   [
    "Alex And Lawlor",
@@ -103,53 +103,41 @@
    7
   ],
   [
+   "Austin And Joe",
    "Just The Tip",
-   "Nuch And Rich",
-   "10/15/2026",
+   "10/22/2026",
+   5,
    4,
-   3,
-   8
+   7
   ]
  ],
  "improved": {
   "c": [
    [
-    "Justin Yokajty",
-    "Gotti And Hynes",
-    1.55,
-    1.64
-   ],
-   [
-    "Ben Coffey",
-    "Sweet Pickles",
-    1.51,
-    1.6
-   ],
-   [
-    "Michael Nuccitelli",
+    "Ashton Julian",
     "Nuch And Rich",
-    1.16,
-    1.24
+    0.91,
+    1.07
    ]
   ],
   "x": [
    [
-    "Rick Falvo",
-    "Sweet Pickles",
-    13.6,
-    14.25
+    "Jim Murray",
+    "Just The Tip",
+    19.64,
+    20.92
    ],
    [
-    "Nick DelGaizo",
-    "BadDarts StankyFarts",
-    14.78,
-    15.42
+    "Caleb Lee",
+    "Just The Tip",
+    15.41,
+    16.14
    ],
    [
-    "Joe Gravino",
-    "Austin And Joe",
-    15.56,
-    16.19
+    "Ashton Julian",
+    "Nuch And Rich",
+    13.51,
+    13.65
    ]
   ]
  },
@@ -157,13 +145,13 @@
   [
    "Jim Murray",
    "Just The Tip",
-   2.48,
+   2.12,
+   8,
    4,
    2,
-   2,
    0,
    0,
-   2,
+   3,
    2,
    0,
    0,
@@ -187,13 +175,13 @@
   [
    "Caleb Lee",
    "Just The Tip",
-   1.87,
-   12,
+   1.83,
+   16,
    8,
-   1,
+   2,
    0,
    0,
-   4,
+   8,
    3,
    1,
    1,
@@ -413,10 +401,10 @@
    "Austin Julian",
    "Austin And Joe",
    1.2,
-   16,
-   3,
+   20,
+   5,
    1,
-   0,
+   1,
    0,
    1,
    2,
@@ -455,6 +443,21 @@
    0
   ],
   [
+   "Ashton Julian",
+   "Nuch And Rich",
+   1.07,
+   12,
+   2,
+   4,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Cody Spade",
    "Nuch And Rich",
    1.03,
@@ -468,35 +471,20 @@
    0,
    0,
    0
-  ],
-  [
-   "Ashton Julian",
-   "Nuch And Rich",
-   0.91,
-   8,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
   ]
  ],
  "x01": [
   [
    "Jim Murray",
    "Just The Tip",
-   19.64,
-   5,
+   20.92,
+   10,
+   7,
    2,
    0,
    0,
    0,
-   0,
-   6
+   10
   ],
   [
    "Nick Lawlor",
@@ -559,6 +547,18 @@
    4
   ],
   [
+   "Caleb Lee",
+   "Just The Tip",
+   16.14,
+   20,
+   6,
+   1,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
    "Ben Coffey",
    "Sweet Pickles",
    16.08,
@@ -595,18 +595,6 @@
    8
   ],
   [
-   "Caleb Lee",
-   "Just The Tip",
-   15.41,
-   15,
-   6,
-   0,
-   0,
-   0,
-   0,
-   5
-  ],
-  [
    "AJ Dibo",
    "Gotti And Hynes",
    15.05,
@@ -633,14 +621,14 @@
   [
    "Austin Julian",
    "Austin And Joe",
-   14.88,
-   20,
+   14.89,
+   25,
    4,
    0,
    0,
    0,
    0,
-   0
+   1
   ],
   [
    "Rich Ciaccio",
@@ -717,14 +705,14 @@
   [
    "Ashton Julian",
    "Nuch And Rich",
-   13.51,
-   10,
+   13.65,
+   15,
    2,
    0,
    0,
    0,
    0,
-   0
+   1
   ],
   [
    "Michael Nuccitelli",
@@ -759,7 +747,7 @@
    "address": "964 Ridge Rd., Webster, NY 14580"
   }
  ],
- "updated": "2026-10-23T00:43:57Z",
+ "updated": "2026-10-23T01:40:48Z",
  "teams": [
   {
    "name": "Alex And Lawlor",
