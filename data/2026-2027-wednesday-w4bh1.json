@@ -387,6 +387,21 @@
    0
   ],
   [
+   "Brian Cassidy",
+   "Emerald Society",
+   1.7,
+   6,
+   1,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Adam Fowles",
    "Tips Dont Lie",
    1.7,
@@ -413,21 +428,6 @@
    1,
    1,
    1,
-   0,
-   0
-  ],
-  [
-   "Brian Cassidy",
-   "Emerald Society",
-   1.7,
-   6,
-   1,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
    0,
    0
   ],
@@ -2727,5 +2727,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-22T23:31:09Z"
+ "updated": "2026-10-23T00:43:39Z"
 }

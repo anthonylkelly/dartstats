@@ -114,16 +114,16 @@
  "improved": {
   "c": [
    [
-    "Ben Coffey",
-    "Sweet Pickles",
-    1.51,
-    1.6
-   ],
-   [
     "Justin Yokajty",
     "Gotti And Hynes",
     1.55,
     1.64
+   ],
+   [
+    "Ben Coffey",
+    "Sweet Pickles",
+    1.51,
+    1.6
    ],
    [
     "Michael Nuccitelli",
@@ -759,7 +759,7 @@
    "address": "964 Ridge Rd., Webster, NY 14580"
   }
  ],
- "updated": "2026-10-22T23:31:27Z",
+ "updated": "2026-10-23T00:43:57Z",
  "teams": [
   {
    "name": "Alex And Lawlor",
