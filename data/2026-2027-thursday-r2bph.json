@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-23T02:33:47Z",
+ "updated": "2026-10-23T03:34:35Z",
  "standings": [
   [
    "No Clue",
-   31,
-   14
+   43,
+   17
   ],
   [
    "Scotts On The Rocks",
@@ -68,11 +68,19 @@
   ],
   [
    "TakingNamesTakingAim",
-   10,
-   20
+   13,
+   32
   ]
  ],
  "results": [
+  [
+   "No Clue",
+   "TakingNamesTakingAim",
+   "10/22/2026",
+   4,
+   12,
+   3
+  ],
   [
    "Revenge",
    "Tag Team Tami",
@@ -80,14 +88,6 @@
    4,
    11,
    4
-  ],
-  [
-   "No Clue",
-   "Revenge",
-   "10/15/2026",
-   3,
-   10,
-   5
   ],
   [
    "Throwing Shade",
@@ -179,9 +179,9 @@
   ],
   [
    "TakingNamesTakingAim",
-   "DoubleIn StumbleOut",
-   "10/15/2026",
-   3,
+   "No Clue",
+   "10/22/2026",
+   4,
    3,
    12
   ]
@@ -278,21 +278,6 @@
    0
   ],
   [
-   "Andy Georgetti",
-   "No Clue",
-   2.89,
-   18,
-   8,
-   6,
-   2,
-   0,
-   9,
-   8,
-   5,
-   0,
-   1
-  ],
-  [
    "Scott Etter",
    "Scotts On The Rocks",
    2.82,
@@ -308,19 +293,19 @@
    1
   ],
   [
-   "Erica Wall",
-   "TakingNamesTakingAim",
-   2.71,
-   12,
-   6,
-   0,
-   0,
-   0,
+   "Andy Georgetti",
+   "No Clue",
+   2.8,
+   24,
+   11,
    8,
    2,
-   2,
-   1,
-   0
+   0,
+   11,
+   10,
+   5,
+   0,
+   1
   ],
   [
    "Kevin DeHollander",
@@ -353,6 +338,21 @@
    1
   ],
   [
+   "Erica Wall",
+   "TakingNamesTakingAim",
+   2.65,
+   18,
+   8,
+   0,
+   0,
+   0,
+   14,
+   2,
+   3,
+   2,
+   0
+  ],
+  [
    "Mark Sennett",
    "Dart Bags T",
    2.61,
@@ -365,6 +365,21 @@
    5,
    4,
    1,
+   0
+  ],
+  [
+   "Todd Wagner",
+   "Handjobs4thehomeless",
+   2.6,
+   24,
+   6,
+   3,
+   0,
+   0,
+   14,
+   6,
+   3,
+   0,
    0
   ],
   [
@@ -381,21 +396,6 @@
    3,
    0,
    1
-  ],
-  [
-   "Todd Wagner",
-   "Handjobs4thehomeless",
-   2.6,
-   24,
-   6,
-   3,
-   0,
-   0,
-   14,
-   6,
-   3,
-   0,
-   0
   ],
   [
    "Shawn Bentley",
@@ -445,15 +445,15 @@
   [
    "Mike Georgetti",
    "No Clue",
-   2.5,
-   18,
-   9,
-   4,
+   2.51,
+   24,
+   12,
+   5,
    1,
    0,
-   9,
+   11,
+   5,
    4,
-   3,
    0,
    0
   ],
@@ -670,10 +670,10 @@
   [
    "Jessica Mitrano",
    "TakingNamesTakingAim",
-   1.41,
-   6,
+   1.37,
+   12,
    0,
-   2,
+   3,
    0,
    0,
    0,
@@ -733,18 +733,6 @@
    52
   ],
   [
-   "Andy Georgetti",
-   "No Clue",
-   24.54,
-   21,
-   5,
-   6,
-   0,
-   0,
-   1,
-   45
-  ],
-  [
    "Sean Liddle",
    "DoubleIn StumbleOut",
    24.34,
@@ -767,6 +755,18 @@
    0,
    0,
    11
+  ],
+  [
+   "Andy Georgetti",
+   "No Clue",
+   23.98,
+   28,
+   7,
+   9,
+   0,
+   0,
+   1,
+   55
   ],
   [
    "Mark Sennett",
@@ -819,14 +819,14 @@
   [
    "Erica Wall",
    "TakingNamesTakingAim",
-   23.05,
-   14,
+   22.71,
+   21,
+   3,
    2,
-   2,
    0,
    0,
-   0,
-   29
+   1,
+   43
   ],
   [
    "Todd Wagner",
@@ -901,6 +901,18 @@
    29
   ],
   [
+   "Mike Georgetti",
+   "No Clue",
+   21.31,
+   28,
+   13,
+   7,
+   0,
+   0,
+   1,
+   43
+  ],
+  [
    "John Salamone",
    "Tag Team Tami",
    21.2,
@@ -935,18 +947,6 @@
    0,
    1,
    23
-  ],
-  [
-   "Mike Georgetti",
-   "No Clue",
-   20.9,
-   21,
-   9,
-   3,
-   0,
-   0,
-   1,
-   31
   ],
   [
    "Mike Ronzo",
@@ -1071,14 +1071,14 @@
   [
    "Jessica Mitrano",
    "TakingNamesTakingAim",
-   13.75,
-   7,
+   14.2,
+   14,
    0,
    0,
    0,
    0,
    0,
-   1
+   5
   ]
  ],
  "improved": {
